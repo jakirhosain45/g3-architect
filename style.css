@@ -205,8 +205,8 @@
     }
     .sponspors-img{
         grid-template-columns: repeat(1,1fr);
-        padding-left: 100px;
-        gap: 30px;
+        justify-items: center;
+        gap: 50px;
     }
 
 }
