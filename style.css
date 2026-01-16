@@ -116,9 +116,8 @@
 }
 .btn-postion{
     padding: 20px;
-    position: relative;
-    top: -80px;
-    left: -50px;
+    margin-top: -80px;
+    margin-left: -50px;
 }
 .card-text{
     margin: 70px 0;
@@ -196,7 +195,9 @@
         width: 100%;
     }
     .btn-postion{
-        width: 100%;
+        margin-top: 10px;
+        margin-left: 10px;
+
     }
     .main-card-container{
         flex-direction: column;
